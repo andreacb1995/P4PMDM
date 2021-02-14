@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nombresAutores">
+        <item></item>
+        <item>@string/autor1</item>
+        <item>@string/autor2</item>
+        <item>@string/autor3</item>
+        <item>@string/autor4</item>
+        <item>@string/autor5</item>
+    </string-array>
+    <string name="autor1">Leanne Graham</string>
+    <string name="autor2">Ervin Howell</string>
+    <string name="autor3">Clementine Bauch</string>
+    <string name="autor4">Patricia Lebsack</string>
+    <string name="autor5">Chelsey Dietrich</string>
+</resources>
